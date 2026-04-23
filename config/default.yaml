@@ -1,3 +1,7 @@
 defaults:
   - base
   - custom
+
+executor:
+  debug: ${oc.env:DEBUG,null}
+  source: ['zotero']
