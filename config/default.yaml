@@ -1,5 +1,4 @@
 defaults:
-  - base
   - custom
 
 executor:
